@@ -9,13 +9,13 @@ If I want to explain this project briefly, it is a CV site.
 The languages used in it are only Html, Css and Js.
 
 In the site:
--Home page
--About me
--My Experience
--My Services
--My Portfolio
--Testimonial
--Contact Me
+1.Home page
+2.About me
+3.My Experience
+4.My Services
+5.My Portfolio
+6.Testimonial
+7.Contact Me
 
 As for the steps you need to do:
 1) Download the project exactly.
